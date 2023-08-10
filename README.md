@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amin Hajbi</h1>
 <h3 align="center">I am a Software Engineering Student</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+
 - 🌱 I’m currently learning **Angular and DevOps**
 
 - 📫 How to reach me **aminhajbi116@gmail.com**
